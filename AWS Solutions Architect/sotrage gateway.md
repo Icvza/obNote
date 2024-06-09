@@ -1,7 +1,7 @@
 ---
 id: sotrage gateway
-aliases: []
-tags: []
+aliases: 
+tags:
 ---
 
 ## Overview

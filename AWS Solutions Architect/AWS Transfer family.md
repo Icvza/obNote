@@ -1,7 +1,8 @@
 ---
 id: AWS Transfer family
 aliases: []
-tags: []
+tags:
+  - ami
 ---
 
 #### Overview
@@ -24,3 +25,5 @@ tags: []
 - replication task can be schduled hourly daily weekly
 - file perms and metdata are preserved 
 - one datsycn agent can use up 10 gbs persecond you can setup and bandwidth limit~
+
+[[#ami]]

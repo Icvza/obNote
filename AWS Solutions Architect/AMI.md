@@ -1,3 +1,11 @@
+---
+id: AMI
+aliases:
+  - ami overview
+tags:
+  - ami
+---
+
 ## Overview
 - Amazon machine image
 - custimation of the ec2 instance
