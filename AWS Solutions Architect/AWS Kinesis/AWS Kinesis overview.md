@@ -17,4 +17,5 @@ tags:
 - Video Streams: captrue process and sotre video streams
 
 [[Kinesis data streams]]
+[[1718313245-HBKO|kinesis firehose]]
 
